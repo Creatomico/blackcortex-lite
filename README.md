@@ -75,14 +75,17 @@ Built for home use. Connect everyone on your LAN, share one machine, keep full c
 
 ## Editions
 
-| | **Lite** (Free) | **Lite+** |
-|---|---|---|
-| Local Ollama models | ✅ | ✅ |
-| Google Gemini | ✅ | ✅ |
-| OpenAI, Claude, xAI, DeepSeek, Qwen | ❌ | ✅ |
-| Web search | ❌ | ✅ |
-| Document analysis | ❌ | ✅ |
-| Updates | ❌ | ✅ |
+| | **Lite** (Free) | **Lite+** | **Coming in v1.x** |
+|---|---|---|---|
+| Local Ollama models | ✅ | ✅ | |
+| Google Gemini | ✅ | ✅ | |
+| OpenAI, Claude, xAI, DeepSeek, Qwen | ❌ | ✅ | |
+| PDF chat | ✅ up to 5 MB | ✅ 5 MB+ | |
+| Office files (Word, Excel) | ❌ | ✅ 5 MB+ | |
+| Web search | ❌ | ✅ | |
+| Cross-chat memory | ❌ | ❌ | ✅ v1.x |
+| Image generation (local) | ❌ | ❌ | ✅ v1.x |
+| Updates | ❌ | ✅ | |
 
 ---
 
