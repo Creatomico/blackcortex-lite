@@ -10,6 +10,28 @@ Built for home and small office use. Connect everyone on your LAN, share one mac
 
 ---
 
+## Screenshots
+
+![Chat](screenshots/chat.png)
+*PDF analysis — ask questions about any document*
+
+![Model Catalog AMD](screenshots/model-catalog.png)
+*Model Catalog — AMD Vulkan Ready, hardware compatibility scoring*
+
+![Model Catalog NVIDIA](screenshots/model-catalog-nvidia.png)
+*Model Catalog — NVIDIA CUDA + Tensor Cores*
+
+![Cloud APIs](screenshots/cloud-apis.png)
+*Cloud APIs — Google Gemini free, Lite+ unlocks more*
+
+![Custom Persona](screenshots/custom-persona.png)
+*Custom Persona — give your AI a name and personality*
+
+![Help](screenshots/help.png)
+*Built-in Help — 9 sections, always available*
+
+---
+
 ## Features
 
 - 🖥️ **Runs locally** — Python + Ollama, no internet required for local models
