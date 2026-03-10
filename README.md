@@ -4,7 +4,7 @@
 
 BlackCortex Lite is a self-hosted, multi-user AI chat application that runs entirely on your machine — no cloud, no subscriptions, no data leaving your network.
 
-Built for home and small office use. Connect everyone on your LAN, share one machine, keep full control of your data.
+Built for home use. Connect everyone on your LAN, share one machine, keep full control of your data.
 
 > ⚠ **Designed for trusted home networks only.** Not recommended for public or corporate deployment — no SSL encryption, no role-based access control, no audit logging.
 
