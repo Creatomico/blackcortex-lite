@@ -1,5 +1,7 @@
 # BlackCortex Lite
 
+> **This is a proprietary closed-source release. GitHub is used only for distribution and documentation. Full source code is not public.**
+
 **Local AI chat for home networks**
 
 BlackCortex Lite is a self-hosted, multi-user AI chat application that runs entirely on your machine — no cloud, no subscriptions, no data leaving your network.
