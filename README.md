@@ -93,6 +93,21 @@ Built for home use. Connect everyone on your LAN, share one machine, keep full c
 
 ---
 
+## About
+
+BlackCortex Lite is an indie project. Creatomico LLC is a one-person company — no investors, no team, no VC money. Just one developer building tools they actually want to use.
+
+This means:
+- **No roadmap pressure** — features ship when they're ready and stable
+- **No open-source obligation** — proprietary model funds continued development
+- **Support is best-effort** — not a helpdesk SLA
+
+If you're here to demand open source, complain about antivirus warnings, or ask why Linux isn't supported yet — please read [INSTALL.md](INSTALL.md) first. Most questions are already answered there.
+
+Genuine bug reports and feedback are welcome at hello@black-cortex.com.
+
+---
+
 ## License
 
 Copyright © 2026 Creatomico LLC. All rights reserved.
