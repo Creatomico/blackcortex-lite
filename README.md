@@ -34,7 +34,7 @@ Built for home use. Connect everyone on your LAN, share one machine, keep full c
 
 ## Features
 
-- 🖥️ **Runs locally** — Python + Ollama, no internet required for local models
+- 🖥️ **Runs locally** — powered by Ollama, no internet required for local models
 - 👥 **Multi-user** — each person gets their own chat history and settings
 - 🌐 **LAN access** — anyone on the network connects via browser, no install needed
 - 🤖 **Model Catalog** — browse and install Ollama models with hardware compatibility scoring
